@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_-MzoMUBcEeyJEOi8H3qhDA" label="Talend_CICD" language="java" technicalLabel="TALEND_CICD" author="_-MzoMkBcEeyJEOi8H3qhDA" productVersion="Talend Cloud API Services Platform-7.3.1.20210818_1049-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/dpatel-talend/Talend_CICD&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_-OJE8EBcEeyJEOi8H3qhDA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_-MzoMkBcEeyJEOi8H3qhDA" login="dpatel@trial36226.us.talend.com" firstName="Dipen" lastName="Patel" type="DQ"/>
+</xmi:XMI>
